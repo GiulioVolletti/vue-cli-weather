@@ -1,7 +1,8 @@
 # project1
 
 Google apy key required in main.js  13
-api key air visual required in 
+
+Api key air visual required in 
   -AxiosPlugin.js 3
   -HelloWorld.vue 109 125
 
